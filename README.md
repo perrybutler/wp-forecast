@@ -12,7 +12,18 @@ Who it's for
 
 Anyone who wants to show a 5-day weather forecast on their WordPress site.
 
+Roadmap
+-------
+
+**Alternate location support**
+
+Add support for querying weather based on zip code (92807), city (Long Beach), weather tower code (KLGB), etc.
+
+**Weather icons**
+
+The weather icons (sunny/fog/rain) at NOAA are very basic (no alpha blending) and not lovely to look at, so the plugin includes a new set of .png weather icons. Developers should have a way to choose between multiple icon sets, and an easy way to upload their own set.
+
 History
 -------
 
-This is a port of the weather forecast widget from one of my other projects, a digital signage kiosk at the Lakewood Mall in Southern California.
+This is a port of the weather forecast widget from one of my other projects, a digital signage kiosk at the Lakewood Center Mall in Southern California.
