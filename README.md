@@ -1,7 +1,7 @@
 WP-Forecast
 ===========
 
-It's a weather forecast plugin/widget for WordPress, powered by the National Digital Forecast Database maintained by the National Oceanic and Atmospheric Adminstration (NOAA) for the most accurate forecast available.
+It's a weather forecast plugin/widget for WordPress, powered by the National Digital Forecast Database which is maintained by the National Oceanic and Atmospheric Adminstration (NOAA) for the most accurate weather information.
 
 ![WP-Forecast](http://files.glassocean.net/github/wp-forecast.png)
 
